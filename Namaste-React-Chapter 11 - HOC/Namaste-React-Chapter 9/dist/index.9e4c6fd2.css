@@ -1,0 +1,92 @@
+.header {
+  color: #000;
+  background-color: #ffb6c1;
+  border: 1px solid #000;
+  justify-content: space-between;
+  height: 100px;
+  margin: 10px;
+  font-family: poppins, sans-serif;
+  display: flex;
+}
+
+.nav-items > ul {
+  margin-top: 28px;
+  margin-right: 640px;
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-items > ul > li {
+  padding: 10px;
+}
+
+.logo {
+  border-right: 1px solid #000;
+  width: 100px;
+}
+
+.card {
+  text-align: center;
+  background-color: #fff;
+  border: 1px solid #000;
+  border-radius: 3%;
+  width: 190px;
+  margin: 10px;
+  font-family: poppins, sans-serif;
+}
+
+.img-div > img {
+  width: 175px;
+  height: 140px;
+  margin-top: 13px;
+}
+
+.imgCard {
+  width: 250px;
+  height: 140px;
+}
+
+.divider {
+  background-image: linear-gradient(90deg, #bebfc5 68%, #0000 0);
+  background-size: 4px 1px;
+  height: 1px;
+  margin: 7px 4px 17px;
+}
+
+.restaurantNameDesign {
+  font-weight: bold;
+}
+
+.cusines {
+  padding: 10px;
+  font-size: 13px;
+}
+
+.rating {
+  margin-bottom: 17px;
+  padding: 1px;
+  font-size: 13px;
+}
+
+.restaurant-List {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.search-input {
+  margin-left: 10px;
+  margin-right: 5px;
+}
+
+.shimmer-card {
+  background: #d3d3d3;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+}
+
+.menu {
+  display: flex;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */

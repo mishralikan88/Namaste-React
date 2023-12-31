@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react-chapter-2",
+  "version": "1.0.0",
+  "description": "React in action",
+  "scripts": {
+    "start": "parcel ./index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "Amarnath Mishra",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.10",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.1.2",
+    "react-router-dom": "^6.15.0"
+  }
+}
